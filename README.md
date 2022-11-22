@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ...
 
-- Continuity2 (UK)
-- World Bank Survey Solutions- https://mysurvey.solutions
+  - Continuity2 (UK)
+  - World Bank Survey Solutions- https://mysurvey.solutions
 
 - 🌱 I’m currently learning ...
 
