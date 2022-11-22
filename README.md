@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ...
 
-Nomad, Consul and Traefik to love each other
+Azure AKS
 
 - 💬 Ask me about ...
 
